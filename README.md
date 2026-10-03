@@ -38,9 +38,6 @@ Git • GitHub • VS Code • AI Development Tools
 
 ## 📌 Featured Projects
 
-🚀 **Campus Lost & Found**
-A frontend-focused campus platform designed around **REPORT → DISCOVER → RECONNECT**, with a clean and modern UI/UX.
-
 💊 **Drug Path Finder**
 A healthcare-focused web project exploring medication-related information through a user-friendly digital experience.
 
